@@ -1,5 +1,5 @@
 
-[![SETUP DEVCONTAINER FOR ANGULAR](https://github.com/user-attachments/assets/3c035a6a-2065-4bb9-b07e-d3a7fe11dbcd)](https://www.youtube.com/watch?v=vcWMp9pCtHU "SETUP DEVCONTAINER FOR ANGULAR")
+[![SETUP DEVCONTAINER FOR ANGULAR](https://github.com/user-attachments/assets/3c035a6a-2065-4bb9-b07e-d3a7fe11dbcd)](https://youtu.be/vcWMp9pCtHU?t=1s "SETUP DEVCONTAINER FOR ANGULAR")
 
 # Install Ubuntu OS for WSL
 ```powershell
