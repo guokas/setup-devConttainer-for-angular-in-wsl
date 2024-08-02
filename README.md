@@ -1,6 +1,5 @@
-![angular_setup_dev_container](https://github.com/user-attachments/assets/3c035a6a-2065-4bb9-b07e-d3a7fe11dbcd)
 
-
+[![SETUP DEVCONTAINER FOR ANGULAR](https://github.com/user-attachments/assets/3c035a6a-2065-4bb9-b07e-d3a7fe11dbcd)](https://www.youtube.com/watch?v=vcWMp9pCtHU "SETUP DEVCONTAINER FOR ANGULAR")
 
 # Install Ubuntu OS for WSL
 ```powershell
